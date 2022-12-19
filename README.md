@@ -396,6 +396,7 @@ Ada 4 proses untuk mengupload file ke Dspace
 1. Membuat workspaceitem
 2. Menambahkan data required
 3. Menambahkan file ke workspaceitem
+4. Move to workflow
 #### Membuat workspaceitem
 ```Workspaceitem``` ini seperti folder yang digunakan untuk tempat menaruh file-file.
 ```php
